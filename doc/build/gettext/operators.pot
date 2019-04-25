@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, OpenStack Developers
+# This file is distributed under the same license as the contributor-guide package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: contributor-guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-26 01:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/operators/index.rst:3
+msgid "Operators' Contributor Guide"
+msgstr ""
+
+#: ../../source/operators/index.rst:5
+msgid "Operator Contributors"
+msgstr ""
+
+#: ../../source/operators/introduction.rst:3
+msgid "Introduction"
+msgstr ""
+
+#: ../../source/operators/introduction.rst:5
+msgid "OpenStack is running in production all around the globe resulting in a large group of people who's daily job is to deploy and operate the platform."
+msgstr ""
+
+#: ../../source/operators/introduction.rst:8
+msgid "We actively encourage operators to participate and engage with the community to provide feedback and help us shape the software and documentation to be more user friendly."
+msgstr ""
+
+#: ../../source/operators/introduction.rst:12
+msgid "To find documentation on how to deploy and run OpenStack you can look up the `OpenStack Manuals <https://docs.openstack.org/>`_ web page."
+msgstr ""
+
+#: ../../source/operators/participate.rst:3
+msgid "Participating"
+msgstr ""
+
+#: ../../source/operators/participate.rst:6
+msgid "Mailing List"
+msgstr ""
+
+#: ../../source/operators/participate.rst:7
+msgid "Operators have used a dedicated mailing list until November 2018. You can read the `openstack.operators archive <http://lists.openstack.org/pipermail/openstack-operators/>`_ which contain plenty of valuable information. Currently there is a `joint mailing list <http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-discuss>`_ for developer and operator to subscribe. More generic information about mailing lists can be found in the Communication page's :ref:`communication-mailing-lists` section."
+msgstr ""
+
+#: ../../source/operators/participate.rst:18
+msgid "IRC Channels"
+msgstr ""
+
+#: ../../source/operators/participate.rst:19
+msgid "There is the #openstack-operators channel on Freenode IRC for live conversations and `Operators' team meeting <http://eavesdrop.openstack.org/#OpenStack_OSOps_Team>`_. On top of the #openstack-operators channel there are several others. More generic information about IRC channels can be found in the :ref:`irc-channels` section of the IRC page."
+msgstr ""
+
+#: ../../source/operators/participate.rst:27
+msgid "Meet Ups"
+msgstr ""
+
+#: ../../source/operators/participate.rst:28
+msgid "`Operators' Meetups <https://wiki.openstack.org/wiki/Operations/Meetups>`_ give people who run clouds a place to congregate, swap best practices, ideas and give feedback. It has a mostly round table/working/discussion session feel, with only a small number of presentations, with the following aims:"
+msgstr ""
+
+#: ../../source/operators/participate.rst:33
+msgid "Gather feedback on the issues that come up in running OpenStack and work to communicate this throughout the community"
+msgstr ""
+
+#: ../../source/operators/participate.rst:35
+msgid "Create a forum in which to share best practices and architectures between interested parties"
+msgstr ""
+
+#: ../../source/operators/participate.rst:37
+msgid "Increase constructive, proactive involvement from those running clouds"
+msgstr ""
+
+#: ../../source/operators/participate.rst:40
+msgid "Share and Learn From Real Configurations"
+msgstr ""
+
+#: ../../source/operators/participate.rst:41
+msgid "Example configurations for various OpenStack services are provided in the `openstack/osops-example-configs repository <https://opendev.org/x/osops-example-configs/src/README.md>`_. Operators can share their configuration files to help others, and review how others setup and tune their configurations."
+msgstr ""
+
