@@ -11,3 +11,6 @@ user friendly.
 
 To find documentation on how to deploy and run OpenStack you can look up the
 `OpenStack Manuals <https://docs.openstack.org/>`_ web page.
+
+To find tools on how to deploy and run OpenStack you can look up the
+`OpenStack Manuals <https://docs.openstack.org/>`_ web page.
